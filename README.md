@@ -16,4 +16,10 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
   * Price change since open ($ value)
   * Open, Prior close
 
+### INSTALLING
+* python 3
+ * beautifulsoup library
+ * requests library
+ * sqlite3 for database
+ 
 
