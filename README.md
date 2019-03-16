@@ -22,4 +22,6 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
  * requests library
  * sqlite3 for database
  
-
+### folder
+* stock.db :- it contains database.
+* stock.py :- it contains all the code.
